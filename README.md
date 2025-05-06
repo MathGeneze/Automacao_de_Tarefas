@@ -7,10 +7,10 @@ Este Projeto foi feito durante a 1° aula da **Jornada Python Hashtag**, onde no
 &nbsp;
 
 <!----------- Sumário ---------->
-## 📃 Sumário
-- [♻️ Explicação do Projeto](#explicação-do-projeto)
-- [⚙️ Requisitos](#requisitos)
-- [⚠️ Observações](#observações)
+## 🗂️ Sumário
+- [Explicação do Projeto](#explicação-do-projeto)
+- [Requisitos](#requisitos)
+- [Observações](#observações)
 
 &nbsp;
 
