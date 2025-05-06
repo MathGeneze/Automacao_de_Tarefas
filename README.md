@@ -20,7 +20,7 @@ O processo se constitui em: **Entrar no site da empresa > fazer login > Cadastra
 - Os dados que serão utilizados estão no arquivo `produtos.csv`.
 
   
-- Este programa foi feito com a especificação de caso o usuário tiver **mais de 1 perfil** no Google, como mostra na imagem abaixo:
+- ‼️Este programa foi feito com a especificação de caso o usuário tiver **mais de 1 perfil** no Google, como mostra na imagem abaixo:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79759fb5-7802-4004-b5fc-4800868b6fda" width="430"/>
 </p>
