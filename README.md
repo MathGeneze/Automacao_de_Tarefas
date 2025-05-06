@@ -6,8 +6,16 @@ Este Projeto foi feito durante a 1° aula da **Jornada Python Hashtag**, onde no
 
 &nbsp;
 
+<!----------- Sumário ---------->
+## 📃 Sumário
+- [♻️ Explicação do Projeto](#explicação-do-projeto)
+- [⚙️ Requisitos](#requisitos)
+- [⚠️ Observações](#observações)
+
+&nbsp;
+
 <!--------------- ♻️ Explicação do Projeto -------------->
-## ♻️ Explicação do Projeto
+## <a id="explicação-do-projeto">♻️ Explicação do Projeto</a>
 Temos informações de **293 produtos** (ex: *Nome do produto*, *Marca*, *Preço* ... ) em um banco de dados e precisamos cadastrá-los no site de uma empresa fictícia. O objetivo deste projeto é simples: Tornar este processo completamente automático.
 
 ⚑ O processo se baseia em: **Entrar no site da empresa  *⮕*  fazer login  *⮕*  Cadastrar os produtos**.
@@ -19,7 +27,7 @@ Para fazer isso de maneira aumtomática, usaremos duas Biblioteca:
 &nbsp;
 
 <!--------------- ⚙️ Requisitos -------------->
-## ⚙️ Requisitos
+## <a id="requisitos">⚙️ Requisitos</a>
 * Ter um editor de código instalado (Ex: **VsCode, PyCharm, Jupiter Notebook**).
   
 * Ter o **Python** instalado e atualizado até pelo menos a `versão 3.10`.
@@ -29,7 +37,7 @@ Para fazer isso de maneira aumtomática, usaremos duas Biblioteca:
 &nbsp;
 
 <!--------------- ⚠️ Observações -------------->
-## ⚠️ Observações
+## <a id="observações">⚠️ Observações</a>
 - O programa principal está no arquivo `main.py`.
 - Os dados que serão utilizados estão no arquivo `produtos.csv`.
 
