@@ -11,7 +11,7 @@ O processo se constitui em: **Entrar no site da empresa > fazer login > Cadastra
 ## ⚠️ Requisitos
 * Ter um editor de código instalado (Ex: **VsCode, PyCharm, Jupiter Notebook**).
 * Ter o **Python** instalado e atualizado até pelo menos a `versão 3.10`.
-* **Instale** as bibliotecas  `pyautogui` e `pandas` pelo terminal.
+* **Instale** as bibliotecas  `pyautogui` e `pandas` pelo terminal através do comando `pip install pyautogui pandas`.
 * Ter o navegador **Google Chrome** instalado.
 
 
@@ -26,7 +26,7 @@ O processo se constitui em: **Entrar no site da empresa > fazer login > Cadastra
 </p>
 
                       
-- Caso você só tenha 1 perfil, entre no arquivo `main.py` e apague o trecho de código da `linha 14` até a `linha 17`.
+- Caso você tenha apenas 1 perfil, entre no arquivo `main.py` e apague o trecho de código da `linha 14` até a `linha 17`.
 
 
 - Para **encerrar a automação**, basta arrastar o cursor no **canto superior esquerdo** da tela.                                                                          
