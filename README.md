@@ -46,8 +46,9 @@
 
 <!--------------- ⚠️ Observações -------------->
 ## <a id="observações">⚠️ Observações</a>
-- ‼️O site da empresa não **armazena nenhum dado**, ele foi criado especialmente para a aula e a área de login pode ser preenchida com qualquer informação.
-- ‼️Este programa foi feito com a especificação de caso o usuário tiver **mais de 1 perfil** no Google, como mostra na imagem abaixo:
+- ❗ O site da empresa não **armazena nenhum dado**, ele foi criado especialmente para a aula e a área de login pode ser preenchida com qualquer informação.
+
+- ‼️ Este programa foi feito com a especificação de caso o usuário tiver **mais de 1 perfil** no Google, como mostra na imagem abaixo:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79759fb5-7802-4004-b5fc-4800868b6fda" width="400"/>
