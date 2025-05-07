@@ -1,4 +1,4 @@
-# Projeto - Automação de Tarefas | Hashtag
+# Projeto - Automação de Tarefas | Intensivão de Python
 
 <!--------------- 📌 Introdução -------------->
 ## 📌 Introdução
