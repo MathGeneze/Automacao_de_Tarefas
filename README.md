@@ -21,7 +21,7 @@
 > 
 > ⚑ O processo se baseia em: **Entrar no site da empresa  *⮕*  fazer login  *⮕*  Cadastrar os produtos**.
 > 
-> Para fazer isso de maneira aumtomática, usaremos duas Biblioteca: 
+> Para fazer isso de maneira automática, usaremos duas Biblioteca: 
   * `pyautogui` - Controla os movimentos do Mouse e do Teclado;
   * `pandas` - Manipulação de dados dos produtos.
 
