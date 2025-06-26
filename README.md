@@ -29,8 +29,8 @@
 
 <!--------------- 🗂️ Estrutura do Projeto -------------->
 ## <a id="estrutura-do-projeto">🗂️ Estrutura do Projeto</a>
-> - O programa principal está no arquivo `main.py`.
-> - Os dados que serão utilizados estão no arquivo `produtos.csv`.
+> - `main.py` - Scrpit principal do projeto.
+> - `produtos.csv` - Contém os dados que serão utilizados no projeto.
 
 &nbsp;
 
